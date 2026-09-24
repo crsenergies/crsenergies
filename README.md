@@ -8,6 +8,6 @@ Je crée des outils open source simples et utiles, autour de l'IA et de l'automa
 
 | | |
 |---|---|
-| [**bascule**](https://github.com/crsenergies/bascule) | Routeur IA compatible OpenAI : quand un fournisseur tombe, la demande passe au suivant. *OpenAI-compatible AI router with automatic fallback.* |
+| [**bascule**](https://github.com/crsenergies/bascule) | Routeur IA compatible OpenAI : quand un fournisseur tombe, la demande passe au suivant. *OpenAI-compatible AI router with automatic fallback.* `npm i -g bascule-router` |
 
 D'autres projets arrivent. · *More projects on the way.*
